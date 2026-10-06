@@ -1,0 +1,4 @@
+# Install PyTorch first (see README), then: python -m pip install -r requirements.txt
+numpy
+num2words
+omegaconf
